@@ -1,0 +1,146 @@
+{
+  "bookStore": {
+    "EN": {
+      "kids's_books": [
+        {
+          "book's_name": "I Love You to the Moon And Back",
+          "author": "Tim Warnes",
+          "prics": "10.9$",
+          "Description": "When the sun comes up, Big Bear and Little Bear think of new ways to share their love. Big Bear loves Little Bear more and more as each day passes, right up to each new moon - and back.",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8486/9781848690691.jpg"
+        },
+        {
+          "book's_name": "Where's Mr Lion",
+          "author": "Nosy Crow",
+          "prics": "21$",
+          "Description": "Winner of the Sainsbury's Children's Book of the Year Award 2017!",
+          "image": "https://www.amigo.co.il/wp-content/uploads/2021/07/%D7%90%D7%A8%D7%99%D7%99%D7%94.jpg"
+        },
+        {
+          "book's_name": "The Feelings Series",
+          "author": "Trace Moroney",
+          "prics": "15$",
+          "Description": "This is the definitive box set collection all 10 titles available in the Feelings series.",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/7606/9781760685379.jpg"
+        }
+      ],
+      "horror_books": [
+        {
+          "book's_name": "The Haunting of Aveline Jones",
+          "author": "  Phil Hickes",
+          "prics": "15.9$",
+          "Description": "Aveline loves reading ghost stories, so a dreary half-term becomes much more exciting when she discovers a spooky old book. Not only are the stories spine-tingling, but it belonged to a girl called Primrose Penberthy, who vanished mysteriously, never to be seen again. Intrigued, Aveline decides to investigate Primrose's disappearance, with some help from her new friend, Harold.",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/4749/9781474972147.jpg"
+        },
+        {
+          "book's_name": "Into the Pit ",
+          "author": "Tim Warnes",
+          "prics": "10.9$",
+          "Description": "Five Nights at Freddy's fans won't want to miss this pulse-pounding collection of three novella-length tales that will keep even the bravest player up at night",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/3385/9781338576016.jpg"
+        },
+        {
+          "book's_name": "The Beauty of Horror: Haunt This Journal",
+          "author": "Alan Robert",
+          "prics": "10.9$",
+          "Description": "They say there is nothing more frightening than the blank page... and up until now, they'd probably be right! The Beauty of Horror: Haunt This Journal will give you nightmares for days. Follow ghastly fan favorite Ghouliana on a macabre descent into madness as she prompts and pokes your every move! Abide her direction or else she may seek her revenge! So get in the spirit to rip up, tear out, and unleash your creativity in ways you've never dreamed of. While this guided journal may be considered a companion to the hit adult coloring book series The Beauty of Horror, this time around, bestselling creator Alan Robert encourages you to color outside the lines!",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6840/9781684057566.jpg"
+        }
+      ],
+      "comedies_books": [
+        {
+          "book's_name": "The Odd 1s Out : How to Be Cool and Other Things I Definitely Learned from Growing Up",
+          "author": "James Rallison",
+          "prics": "23.9$",
+          "Description": "Instant New York Times bestseller * Hilarious stories and advice about the ups and downs of growing up, from a popular YouTube artist and storyteller.Like any shy teen turned young adult, YouTube star James Rallison (The Odd 1s Out) is used to being on the outside looking in. He wasn't partying in high school or winning football games like his older brother. Instead, he posted comics on the Internet. Now, he's ready to share his hard-earned advice from his 21 years of life in the funny, relatable voice his fans love.",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1431/9780143131809.jpg"
+        },
+        {
+          "book's_name": "A Squash and a Squeeze Big Book ",
+          "author": " Julia Donaldson ",
+          "prics": "25.9$",
+          "Description": "Wise old man, won't you help me, please? My house is a squash and squeeze. Visit the farm in the brilliantly funny A Squash and a Squeeze, the first ever picture book written and illustrated by the unparalleled picture book partnership of Julia Donaldson and Axel Scheffler, creators of The Gruffalo.",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/2300/9780230013902.jpg"
+        },
+        {
+          "book's_name": "Pizza and Taco: Who's the Best?",
+          "author": "Stephen Shaskan",
+          "prics": "12.9$",
+          "Description": "The first in a hilarious young graphic novel series about Pizza and Taco. Two best friends, lots of toppings...but only one of them can be the BEST, right? Fans of Narwhal and Jelly will eat this book up...and be hungry for more! Best friends are the BEST! But WHO is the BEST? Is it Pizza or Taco? The question is debatable! They both love water slides. They both are friends with Hot Dog and Hamburger. In fact, maybe they should have a debate and get their friends to VOTE for who's the best! Can their friendship survive the race for top spot on the popularity food chain? Cast your VOTE!",
+          "image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/5931/9780593123300.jpg"
+        }
+      ]
+    },
+    "HE": {
+      "kids's_books": [
+        {
+          "book's_name": "העץ הנדיב",
+          "author": "של סילברסטיין",
+          "prics": "10.9$",
+          "Description": "של סילברסטיין, הקאריקאטוריסט הנודע של פלייבוי, הוא מחברם ומעטרם של ספרי ילדים רבים ועוסק בין השאר גם בהלחנת מוזיקה. מבין ספריו, העץ הנדיב הוא הידוע ביותר. הספר תורגם לשפות רבות וזכה להצלחה ברחבי העולם. בארצות הברית בלבד נמכר העץ הנדיב בלמעלה ממיליון עותקים, והוא שב וכובש פעם אחר פעם את פיסגת רשימת רבי המכר. גם בישראל כבש העץ הנדיב את ליבם של אלפי קוראים צעירים וצעירים ברוחם, והפך תוך פחות משנה לחלק בלתי נפרד מן הקלאסיקה של ספרי הילדים. לאחרונה הצטרפו אליו שני ספרים נוספים מאת של סילברסטיין - שניהם בהוצאת ´אדם´ - הספר החתיכה החסרה, ובן זוגו החתיכה החסרה פוגשת את 0 הגדול. גם שני אלה הולכים וזוכים בקהל אוהדים, בקרב אלה היודעים ליהנות מן הקו החכם המעטר את סיפוריו של מחבר העץ הנדיב.",
+          "image": "https://images-evrit.yit.co.il/Images/Products/ModanMasters/haezhanadiv_master.jpg"
+        },
+        {
+          "book's_name": "איפה מר אריה?",
+          "author": "אינגלה פ' אוריונס",
+          "prics": "21$",
+          "Description": "זוכה פרס ספרי הילדים לשנת 2017!",
+          "image": "https://www.amigo.co.il/wp-content/uploads/2021/07/%D7%90%D7%A8%D7%99%D7%99%D7%94.jpg"
+        },
+        {
+          "book's_name": "סיר הסירים ילד",
+          "author": "אלונה פרנקל",
+          "prics": "15$",
+          "Description": "סיר הסירים קלאסיקה, גם אני הקראתי אותו לילדים שלי..הספר מתחיל בתיאורו של נפתלי התינוק והסבר על איברים שונים ותפקודם. אמו של נפתלי מחליפה לו חיתולים עד שיום אחד הוא מקבל מסבתו חבילה. נפתלי מנסה להבין מה תפקיד החפץ בחבילה עד שלבסוף מתגלה כי זה סיר. הוא מנסה להשתמש בסיר כמה פעמים ללא הצלחה עד שפעם אחת ישב וישב, עד שהצליח. אמו של נפתלי שמחה שהצליח להיגמל מהחיתול ושולחת את הצרכים לשירותים.",
+          "image": "https://www.mekupelet.co.il/wp-content/uploads/2021/11/%D7%A1%D7%99%D7%A8-%D7%94%D7%A1%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%9F.jpg"
+        }
+      ],
+      "horror_books": [
+        {
+          "book's_name": "לקסיקון השדים",
+          "author": "  שרה ריס ברנן",
+          "prics": "15.9$",
+          "Description": "ניק ואלן, שני אחים. אחד הוא הבריון של בית-הספר, השני תולעת ספרים. חוץ מזה, מאז שהם זוכרים את עצמם הם נמלטים מפני מכשפים אביהם נרצח, אימם יצאה מדעתה, ועדיין המכשפים דולקים בעקבותיהם. הם רוצים מהם משהו - והם מוכנים להרוג שוב בשביל להשיג אותו.הסכנה מתדפקת על דלת ביתה של משפחת רייבס כשנער ונערה פונים אל ניק ואלן בבקשה לעזרה. גם הם חושבים שהסתבכו עם שדים, ויש להם ראיות חותכות לכך... זהו אות הפתיחה למרוץ הישרדות נואש, מרדף שלא תמיד ברור בו מיהו הצייד ומיהו הטרף, מי בן ברית ומי אויב. וכך, בעוד אויביהם סוגרים עליהם, מחליטה החבורה הנואשת להמר על כל הקופה. וכשמעגל המכשפים סוגר על משפחתם, ניק חושף את הסוד שעלול להמיט עליהם חורבן.",
+          "image": "https://images-evrit.yit.co.il/Images/Products/YediotMasters/lexihashe_master.jpg"
+        },
+        {
+          "book's_name": "בארבע ידיים ",
+          "author": "ענבל אלמוזנינו",
+          "prics": "10.9$",
+          "Description": "חטיפתן של שלוש נערות משטחו של בית ספר יוקרתי במנהטן, זורעת אימה ומעוררת סערה תקשורתית ברחבי ארצות הברית.",
+          "image": "https://images-evrit.yit.co.il/Images/Products/NewBO/Products/6966/BearbaYadaim_Master.jpg"
+        },
+        {
+          "book's_name": "הניצוץ שבאפר",
+          "author": "סבה טהיר",
+          "prics": "10.9$",
+          "Description": "אליאס שייך למעמד האדונים. מגיל צעיר הוא עובר הכשרה באקדמיה הצבאית כדי להפוך לחייל קטלני בשירות האימפריה. לָאיָה שייכת למעמד העבדים. היא חיה עם אחיה ועם סבא וסבתא שלה ברחובות המוזנחים של פשוטי העם ומשתדלת לחיות תמיד מתחת לרדאר.",
+          "image": "https://images-evrit.yit.co.il/Images/Products/NewBO/Products/4901/hanizoz_shebaefer_Master.jpg"
+        }
+      ],
+      "comedies_books": [
+        {
+          "book's_name": "גיבורים אמיתיים",
+          "author": "שירלי יובל-יאיר, טל בן-שחר",
+          "prics": "23.9$",
+          "Description": "סיפור חייו של תומס אדיסון, שלא פחד להיכשל והיה לגדול הממציאים בדורו, משמש השראה ליוני ולכל מיש שרוצה להצליח, אבל חושש לטעות בדרך. ספרי הסדרה גיבורים אמיתיים מציגים סוגיות עמוקות המעסיקות ילדים, ודמויות היסטוריות שסיפור חייהן ומנגנוני ההתמודדות שלהן יכולים לשמש השראה לילדים ולהורים כאחדהסדרה היא חלק מפרויקט משותף של דר טל בן שחר ושירלי יובל-יאיר, העוסקים בישום של הפסיכולוגיה החיובית בחיי היומיום באמצעות ספרים הרצאות וסדנאות חוויתיות.",
+          "image": "https://images-evrit.yit.co.il/Images/Products/KinneretMasters/tomasvani_master.jpg"
+        },
+        {
+          "book's_name": "אני לא גנב",
+          "author": " תמי שם־טוב ",
+          "prics": "25.9$",
+          "Description": "יָאנֶק מגיע לבית היתומים החדש בלי שום תקווה בלב. בבית המחסה הקודם שברו לו את הרגליים ומאז הוא צולע ולא יכול לעשות את הדבר שהוא הכי טוב בו: לרוץ. חוץ מזה הוא גם כועס - על אחותו שוויתרה עליו, על החונך המתנשא שאחראי עליו עכשיו, ועל השם שדבק בו: גנב בן גנב.מה כבר יכול להשתנות בחיים שלו?",
+          "image": "https://images-evrit.yit.co.il/Images/Products/covers_2018/iamnotathief_master.jpg"
+        },
+        {
+          "book's_name": "כראמל",
+          "author": "מאירה ברנע-גולדברג",
+          "prics": "12.9$",
+          "Description": "היינו יכולים לומר לכם שזה סיפור על שלושה אחים, מאוד שונים, שקיבלו בירושה שלוש טבעות קסם מדוד עשיר ומסתורי.או שהיינו יכולים לספר לכם שמדובר במנהלת משק בית ערמומית ובבתה היפהפייה, שמנסות להשתלט על אחוזה מפוארת ועל רכוש עצום והיינו יכולים גם לטעון שזהו סיפורה של יתומה חמודה ופטפטנית, שבורחת מבית היתומים ומהמנהלת המפלצתיתשלו היינו יכולים לומר את כל זה.",
+          "image": "https://images-evrit.yit.co.il/Images/Products/newcovers/caramel_master.jpg"
+        }
+      ]
+    }
+  }
+}

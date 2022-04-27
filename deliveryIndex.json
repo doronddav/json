@@ -1,0 +1,93 @@
+{
+  "center_area": {
+    "cities": [
+      {
+        "tel_aviv": {
+          "delivery_time": "10 days",
+          "price": "5$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Herzeliya": {
+          "delivery_time": "14 days",
+          "price": "5$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Raanana": {
+          "delivery_time": "14 days",
+          "price": "8$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Kfar_Saba": {
+          "delivery_time": "14 days",
+          "price": "8$",
+          "delivery_company": "DHL"
+        }
+      }
+    ]
+  },
+
+  "Northen_area": {
+    "cities": [
+      {
+        "Carmiel": {
+          "delivery_time": "20 days",
+          "price": "10$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Heifa": {
+          "delivery_time": "14 days",
+          "price": "10$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Keisaria": {
+          "delivery_time": "14 days",
+          "price": "10$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Kfar_Saba": {
+          "delivery_time": "14 days",
+          "price": "8$",
+          "delivery_company": "DHL"
+        }
+      }
+    ]
+  },
+
+  "southern area": {
+    "cities": [
+      {
+        "Rehovot": {
+          "delivery_time": "10 days",
+          "price": "5$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Beer-Sheva": {
+          "delivery_time": "14 days",
+          "price": "5$",
+          "delivery_company": "DHL"
+        }
+      },
+      {
+        "Dimona": {
+          "delivery_time": "14 days",
+          "price": "8$",
+          "delivery_company": "DHL"
+        }
+      }
+    ]
+  }
+}
